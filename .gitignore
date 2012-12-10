@@ -1,0 +1,7 @@
+# Java generic
+*.class
+doc/
+
+# leJOS specific
+*.nxd
+*.nxj
