@@ -10,7 +10,7 @@ We are proud to announce an initial release of the project!
 
 Current Version 2.0β.
 
-Now we are working to replace hardware from __LEGO MINDSTORMS EV2__ to __LEGO MINDSTORMS EV3__.
+Now we are working to replace hardware from __LEGO MINDSTORMS EV2__ to __LEGO MINDSTORMS EV3__ and __Intel Edison__.
 
 ## Directory structure
 ---------------
