@@ -1,7 +1,9 @@
 # Java generic
 *.class
-doc/
 
 # leJOS specific
 *.nxd
 *.nxj
+
+# MacOSX
+.DS_Store
