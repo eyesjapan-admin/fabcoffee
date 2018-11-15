@@ -2,7 +2,7 @@
 
 ---
 
-Fabcoffee is a fun project that started with an idea to bring together modern technologies, LEGO and…coffee. Have you ever seen latte art? Have you ever wanted to do something similar but in a more easy way? If that's the case, then this project might be interesting for you!
+Fabcoffee is a fun project that started with an idea to bring together two modern technologies: LEGO and…coffee. Have you ever seen latte art? Have you ever wanted to do something similar but in an easier way? If so, then this project might be interesting for you!
 
 ## Status
 
@@ -19,7 +19,7 @@ This project is compatible with the __LEGO MINDSTORMS EV3__ hardware.
 
 ## Authors
 ---------------
-This project was possible because of cooperation between [Eyes, JAPAN Co. Ltd.](http://nowhere.co.jp) and the [University of Wuppertal](http://www.uni-wuppertal.de).
+This project was made possible because of cooperation between [Eyes, JAPAN Co. Ltd.](http://nowhere.co.jp) and the [University of Wuppertal](http://www.uni-wuppertal.de).
 
 ## Contribution
 ---------------
